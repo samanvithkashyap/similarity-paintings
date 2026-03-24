@@ -114,7 +114,7 @@ This project is my second submission for the **HumanAI Foundation ArtExtract tas
 
 ## Notebook
 
-Full implementation: [View on Kaggle](#) <!-- add your Kaggle notebook link -->
+Full implementation: [View full notebook](https://github.com/samanvithkashyap/similarity-paintings/blob/main/task-2-similarity.ipynb)
 
 ---
 
